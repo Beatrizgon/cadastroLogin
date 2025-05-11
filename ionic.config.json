@@ -1,0 +1,7 @@
+{
+  "name": "testeCadastro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
